@@ -16,3 +16,14 @@
     text-align:center;
     margin: 5px;
 }
+
+.navegador{
+    background-color: azure;
+    margin-top: 20%;
+}
+
+.texto{
+    color:aquamarine;
+    font-size:medium;
+    font-weight:bold;
+}
