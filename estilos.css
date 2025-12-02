@@ -18,12 +18,24 @@
 }
 
 .navegador{
-    background-color: azure;
+    background-color: rgb(95, 95, 95);
     margin-top: 20%;
+    display: flex;
+    justify-content: start;
+    height: 100px;
+    align-items: center;
+
 }
 
 .texto{
     color:aquamarine;
     font-size:medium;
     font-weight:bold;
+}
+.boton{
+    background-color: grey;
+    color: white;
+    padding: 15px;
+    margin: 5px;
+    text-align: center;
 }
